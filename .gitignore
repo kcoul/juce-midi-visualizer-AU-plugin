@@ -2,3 +2,5 @@
 /Builds
 #GLPlugin_Logic.logicx
 /DemoContent
+
+**/JuceLibraryCode
